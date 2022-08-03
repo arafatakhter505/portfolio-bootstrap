@@ -1,0 +1,26 @@
+.kevin-primary {
+  color: #ff004f;
+}
+.kevin-btn {
+  text-decoration: none;
+  font-weight: 600;
+  background-color: #ff004f;
+  color: #ffffff;
+  border: 1px solid #ff004f;
+  border-radius: 5px;
+  padding: 10px 20px;
+  transition: 0.3s;
+}
+.kevin-btn:hover {
+  background-color: transparent;
+  color: #ff004f;
+  border: 1px solid #ff004f;
+}
+
+/* top banner */
+#top-banner {
+  background-image: url(images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
